@@ -1,0 +1,9 @@
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\bin\Debug\CaixaEletronicoDojo.exe.config
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\bin\Debug\CaixaEletronicoDojo.exe
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\bin\Debug\CaixaEletronicoDojo.pdb
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\obj\Debug\CaixaEletronicoDojo.csprojAssemblyReference.cache
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\obj\Debug\CaixaEletronicoDojo.Form1.resources
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\obj\Debug\CaixaEletronicoDojo.Properties.Resources.resources
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\obj\Debug\CaixaEletronicoDojo.csproj.GenerateResource.cache
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\obj\Debug\CaixaEletronicoDojo.exe
+C:\Users\Silva\Documents\GitHub\CodingDojos\#01-CaixaEletronico\WinForms\CaixaEletronicoDojo\CaixaEletronicoDojo\obj\Debug\CaixaEletronicoDojo.pdb
